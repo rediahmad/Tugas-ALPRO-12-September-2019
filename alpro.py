@@ -11,4 +11,4 @@ for x in GPA :
     if x > 3 :
         print(x, "anda mendapatkan bonus", Bonus())
     elif x <= 3 :
-        print("anda tidak mendapatkan bonus")s
+        print("anda tidak mendapatkan bonus")
